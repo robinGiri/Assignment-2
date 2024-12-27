@@ -1,0 +1,8 @@
+import 'package:assignment_two/app.dart';
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(
+    App(),
+  );
+}
